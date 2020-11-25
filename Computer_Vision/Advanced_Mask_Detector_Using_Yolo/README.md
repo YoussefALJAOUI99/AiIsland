@@ -9,6 +9,7 @@ Copy paste is allowed for educational purpose only !!!
 
 
 1-You need to download The image Zip file and to reupload it to your GDrive storage.
+
 2-Open Google Colab and upload the ipynb file(Advanced_Mask_Detection_AiIsland.ipynb) ,change the path in each line if needed (change /content/images1.zip to your images.zip file location)
 3-the code is automatic it will change everythings is Yolo model so you just need to change some paths
 4-In part 3 change content/gdrive/Shareddrives/ALJAOUI/yolov3 to your googledrive path /yolov3
