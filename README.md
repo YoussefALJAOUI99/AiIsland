@@ -4,4 +4,4 @@ It’s an open source database that’s you can use to build your own projects (
 
 http://aiisland.byethost13.com/
 
-                                                                                                                  Created By: Y.ALJAOUI & A.EL-WASMI
+                                                                        Created By: Y.ALJAOUI & A.EL-WASMI
