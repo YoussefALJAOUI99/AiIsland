@@ -6,6 +6,8 @@ AiIsland-Advanced_Mask_Detector_Using_Yolo-Project
 
 
 Copy paste is allowed for educational purpose only !!!
+
+
 1-You need to download The image Zip file and to reupload it to your GDrive storage.
 2-Open Google Colab and upload the ipynb file(Advanced_Mask_Detection_AiIsland.ipynb) ,change the path in each line if needed (change /content/images1.zip to your images.zip file location)
 3-the code is automatic it will change everythings is Yolo model so you just need to change some paths
